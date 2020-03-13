@@ -2,9 +2,13 @@
 
 Использование:
 
-Настроить конфигурацию MySQL:
+Настроить конфигурацию MySQL в классе StringParser.php:
 
 ```private const config = ['127.0.0.1', 'root', '', 'stringparser'];```
+
+Импортировать класс в любое место:
+
+```require 'StringParser.php';```
 
 Инициализировать с помощью строки:
 
