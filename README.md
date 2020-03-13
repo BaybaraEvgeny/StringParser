@@ -13,4 +13,8 @@
 Напечатать результат в консоль:
 
 ```$parser->printVariants();```
+
+StringParser.php - главный класс
+
+StartPoint.php - скрипт инициализации
  
