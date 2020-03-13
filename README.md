@@ -3,5 +3,6 @@
 Использование:
 
 Инициализировать с помощью строки:
+
 ```$parser = new StringParser($mainString);```
  
